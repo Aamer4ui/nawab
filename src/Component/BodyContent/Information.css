@@ -1,0 +1,8 @@
+.anchor{
+    text-decoration: none;
+    color: silver;
+    font-size: 2rem;
+}
+.anchor :hover{
+    color: orangered;
+}
