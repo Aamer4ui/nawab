@@ -1,0 +1,25 @@
+.color-nav{
+    background-color:#283747 ;
+    margin-top: 10px;
+    padding: 0;
+    color: white;
+    height: 70px;
+}
+.mr-auto{
+    font-size: 20px;
+    /* padding-left: 30px; */
+    color: #ffff;
+}
+#nav{
+    color: white;
+    padding: 5PX;
+    margin: 7PX;
+    font-style: oblique;
+
+}
+#nav:hover{
+    color: red;
+    box-shadow: 0 0 5px white;
+    background:#283747 ;
+    border-radius: 30px;
+}
