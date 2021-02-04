@@ -4,8 +4,11 @@ export const MainHeader = () => {
   return (
     <div>
       <header>
+        <a href="">
+        <img src="logo1.jpg" className="main-logo" alt="" />
+        </a>
         <a href="" className="logo">
-          <img src="nawab.png" alt="College Logo" />
+          <b>NAWAB SHAH ALAM COLLEGE</b>
         </a>
       </header>
     </div>

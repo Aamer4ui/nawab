@@ -1,0 +1,16 @@
+.main-logo{
+    height: 8rem;
+}
+header{
+    display: inline-block;
+}
+.logo{
+    color: #283747;
+    text-align: center;
+    font-size: 2rem;
+    margin-left: 20px;
+}
+a:hover{
+    text-decoration: none;
+    color: orangered;
+}
