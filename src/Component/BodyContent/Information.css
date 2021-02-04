@@ -1,8 +1,14 @@
-.anchor{
-    text-decoration: none;
-    color: silver;
+
+.anchor a{
+    color: slategrey;
     font-size: 2rem;
+    text-decoration: none;
 }
-.anchor :hover{
+.anchor a:hover{
     color: orangered;
+    text-decoration: none;
+}
+.anchor p{
+    font-size: 1rem;
+    text-align: left;
 }
