@@ -9,6 +9,7 @@ export const MainHeader = () => {
         </a>
         <a href="" className="logo">
           <b>NAWAB SHAH ALAM COLLEGE</b>
+          
         </a>
       </header>
     </div>

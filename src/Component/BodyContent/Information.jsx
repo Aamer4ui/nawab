@@ -4,7 +4,9 @@ import "../BodyContent/Information.css";
 export const Information = () => {
   return (
     <div className="anchor">
-      <a href="">Nawab Shah Alam Khan College of Engineering and Technology</a>
+      <a href="">Nawab Shah Alam Khan College</a>
+      <img className="owner-pic" src="chairman.jpg" alt="" />
+
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Est,
         repellendus cum! Lorem ipsum dolor sit amet consectetur adipisicing
