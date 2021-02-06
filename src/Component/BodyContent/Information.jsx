@@ -23,7 +23,8 @@ export const Information = () => {
         Consequatur, maiores est? Ipsum, totam optio exercitationem eum eligendi
         atque pariatur doloribus? Culpa totam architecto incidunt sequi animi
         illum dignissimos! Voluptas placeat reprehenderit numquam perferendis
-        est. Magnam iure obcaecati eveniet saepe.
+        est. Magnam iure obcaecati eveniet saepe. illum dignissimos! Voluptas
+        placeat reprehenderit numquam perferendis est. Magnam iure obcaecati.
       </p>
     </div>
   );
